@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtyomUnityDeveloper
 - 👀 I’m interested in GameDevelopmenr
-- 🌱 I’m currently learning Unity3D and C#
+- 🌱 I’m currently working in Unity3D, using C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
