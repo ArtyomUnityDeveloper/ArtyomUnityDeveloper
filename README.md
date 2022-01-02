@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtyomUnityDeveloper
-- 👀 I’m interested in GameDevelopment
+- 👀 All projects in my repos are made with Unity3D (C#)
 - 🌱 I’m currently working in Unity3D, using C# 
 
 
